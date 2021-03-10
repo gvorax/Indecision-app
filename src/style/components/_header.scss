@@ -1,0 +1,18 @@
+.header {
+  background-color: $off-black;
+  color: #fff;
+  margin-bottom: $xl-size;
+  padding: $l-size 0;
+}
+.header__title {
+  color: #fff;
+  font-size: $l-size;
+  margin: 0;
+}
+
+.header__subtitle {
+  color: $off-white;
+  font-weight: 500;
+  font-size: $m-size;
+  margin: 0;
+}
